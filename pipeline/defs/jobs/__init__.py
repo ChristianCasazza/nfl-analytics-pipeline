@@ -1,0 +1,1 @@
+from .core_jobs import materialize_all_assets_job
