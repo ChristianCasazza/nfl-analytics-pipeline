@@ -7,9 +7,9 @@ This repository serves as a local data platform for working with NFL data. It en
 - **Seed Datset Joining**: Performs joins with other nflverse seed datasets to enchance dataset for analysis
 - **SQL Analytics Pipeline**: Executes a series of SQL transformations to calculate metrics and stats.
 
-Use this repo to design your own analytics pipeline on top of NFL play-by-play data
+Use this repo to design your own analytics pipeline on top of NFL play-by-play data.
 
-The contents of this repo can be easily copied and sent to an LLM with https://github.com/ChristianCasazza/codeprinter
+All data is sourced from the great team at [nflverse](https://github.com/nflverse).
  
 # Project Setup Guide
 
